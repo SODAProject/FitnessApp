@@ -1,7 +1,7 @@
 dependencies: \
-  /Users/anthonynguyen/WorkOutApp/FitnessApp/node_modules/react-native/ReactCommon/yoga/yoga/YGNodePrint.cpp \
-  /Users/anthonynguyen/WorkOutApp/FitnessApp/node_modules/react-native/ReactCommon/yoga/yoga/YGNodePrint.h \
-  /Users/anthonynguyen/WorkOutApp/FitnessApp/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.h \
-  /Users/anthonynguyen/WorkOutApp/FitnessApp/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.h \
-  /Users/anthonynguyen/WorkOutApp/FitnessApp/node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h \
-  /Users/anthonynguyen/WorkOutApp/FitnessApp/node_modules/react-native/ReactCommon/yoga/yoga/Yoga-internal.h
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/ReactCommon/yoga/yoga/YGNodePrint.cpp \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/ReactCommon/yoga/yoga/YGNodePrint.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/ReactCommon/yoga/yoga/Yoga-internal.h
