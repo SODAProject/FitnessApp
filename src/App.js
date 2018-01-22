@@ -1,15 +1,17 @@
 import React, { Component } from 'react';
 import { View } from 'react-native';
-import { Header } from './components/common';
+import { Header, Button } from './components/common';
 
 class App extends Component {
 	render() {
 		return (
 			<View> 
-			<Header headerText="Fitness App" />
+				<Button>
+					Filter
+				</Button>
 			</View>
 			);
 	}
 }
-//			<Header headerText="FitnessApp" />
+
 export default App;
