@@ -7,12 +7,13 @@ const Settings = () => {
 		return (
 			<CardSection> 
 				<Button>
-					Filter
+					My Profile
 				</Button>
 				<Button>
-					Create Workout
+					Other Settings
 				</Button>
 			</CardSection>
+			
 		);
 	};
 

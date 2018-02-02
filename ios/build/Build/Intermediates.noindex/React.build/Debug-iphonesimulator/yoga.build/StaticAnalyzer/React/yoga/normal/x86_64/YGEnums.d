@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.cpp \
-  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.h \
-  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h
+  /Users/anthonynguyen/WorkOutApp/FitnessApp/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.cpp \
+  /Users/anthonynguyen/WorkOutApp/FitnessApp/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.h \
+  /Users/anthonynguyen/WorkOutApp/FitnessApp/node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h

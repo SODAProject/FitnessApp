@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { View } from 'react-native';
-import { HomeScreen, ChatScreen, Filter } from './components';
+import { HomeScreen, ChatScreen, Settings } from './components';
 import { Header, Button, CardSection, Spinner } from './components/common';
 
 class App extends Component {
@@ -8,31 +8,26 @@ class App extends Component {
 
 	renderContent() {
     switch (this.state.Screen) {
-      case ChatScreen:
-        return <ChatScreen />;
+      case Settings:
+        return <Settings />;
       case HomeScreen:
-        return <Spinner size="large" />;
-      case Filter:
-        return <Filter />;       
+        return <HomeScreen />;
+      case ChatScreen:
+        return <ChatScreen />;       
       default:
         return (
         <View>
 			<CardSection>
-          <Button onPress={() => this.setState({ Screen: ChatScreen })}>
-            ChatScreen
+          <Button onPress={() => this.setState({ Screen: Settings })}>
+            Settings
           </Button>
 
-          </CardSection>
-
-          <CardSection>
           <Button onPress={() => this.setState({ Screen: HomeScreen })}>
             HomeScreen
           </Button>
-          </CardSection>
 
-          <CardSection>
-          <Button onPress={() => this.setState({ Screen: Filter })}>
-            Filter
+          <Button onPress={() => this.setState({ Screen: ChatScreen })}>
+            ChatScreen
           </Button>
            </CardSection>
           </View>
@@ -42,7 +37,7 @@ class App extends Component {
 	render() {
 	return (
       <View>
-        <Header headerText="Navigate Through Screens" />
+        <Header headerText="Fitness App" />
 
         {this.renderContent()}
       </View>
