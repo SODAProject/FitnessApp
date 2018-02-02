@@ -1,15 +1,18 @@
 import React, { Component } from 'react';
 import { View } from 'react-native';
-import { Header, Button } from './components/common';
+import { Header, Button, CardSection } from './components/common';
 
 class App extends Component {
 	render() {
 		return (
-			<View> 
+			<CardSection> 
 				<Button>
 					Filter
 				</Button>
-			</View>
+				<Button>
+					Filter
+				</Button>
+			</CardSection>
 			);
 	}
 }
