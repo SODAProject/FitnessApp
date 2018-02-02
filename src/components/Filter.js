@@ -1,13 +1,18 @@
 import React from 'react';
 // import { View } from 'react-native';
-import { Header } from './common';
+import { CardSection, Button } from './common';
 
 
 const Filter = () => {
 		return (
-			<Header>
-				Chat Screen
-			</Header>
+			<CardSection> 
+				<Button>
+					Filter
+				</Button>
+				<Button>
+					CFiltersss
+				</Button>
+			</CardSection>
 		);
 	};
 

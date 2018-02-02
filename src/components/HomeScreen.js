@@ -10,7 +10,7 @@ const HomeScreen = () => {
 					Filter
 				</Button>
 				<Button>
-					Create Workout
+					Create Workout baby
 				</Button>
 			</CardSection>
 		);
