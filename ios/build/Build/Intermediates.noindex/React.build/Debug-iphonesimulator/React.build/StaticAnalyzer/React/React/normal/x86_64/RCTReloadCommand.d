@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Base/RCTReloadCommand.m \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Base/RCTReloadCommand.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Base/RCTKeyCommands.h
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Base/RCTReloadCommand.m \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Base/RCTReloadCommand.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Base/RCTKeyCommands.h

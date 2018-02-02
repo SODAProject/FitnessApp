@@ -1,22 +1,22 @@
 dependencies: \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Modules/RCTDevSettings.mm \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Modules/RCTDevSettings.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Base/RCTBridge.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Base/RCTBridge+Private.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Base/RCTEventDispatcher.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Base/RCTLog.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Base/RCTUtils.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Profiler/RCTProfile.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h

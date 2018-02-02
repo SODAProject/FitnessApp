@@ -1,19 +1,10 @@
 import React, { Component } from 'react';
-import { View } from 'react-native';
-import { Header, Button, CardSection } from './components/common';
+//import { View } from 'react-native';
+import { HomeScreen } from './components';
 
 class App extends Component {
 	render() {
-		return (
-			<CardSection> 
-				<Button>
-					Filter
-				</Button>
-				<Button>
-					Filter
-				</Button>
-			</CardSection>
-			);
+		return <HomeScreen />;
 	}
 }
 

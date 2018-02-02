@@ -1,19 +1,19 @@
 dependencies: \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/Libraries/Image/RCTImageShadowView.m \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/Libraries/Image/RCTImageShadowView.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/Libraries/Image/RCTImageShadowView.m \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/Libraries/Image/RCTImageShadowView.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h

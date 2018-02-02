@@ -1,22 +1,22 @@
 dependencies: \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Views/ScrollView/RCTScrollContentView.m \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Views/ScrollView/RCTScrollContentView.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Views/RCTView.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Views/RCTBorderStyle.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Views/RCTComponent.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Views/RCTPointerEvents.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Views/UIView+React.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Views/ScrollView/RCTScrollView.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Base/RCTEventDispatcher.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Base/RCTBridge.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Views/ScrollView/RCTScrollableProtocol.h
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Views/ScrollView/RCTScrollContentView.m \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Views/ScrollView/RCTScrollContentView.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Views/RCTView.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Views/ScrollView/RCTScrollView.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Views/ScrollView/RCTScrollableProtocol.h

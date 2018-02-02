@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/anthonynguyen/mobileApps/FitnessApp/ios/FitnessApp/main.m \
-  /Users/anthonynguyen/mobileApps/FitnessApp/ios/FitnessApp/AppDelegate.h
+  /Users/saitama/SIDEPROJECTS/FitnessApp/ios/FitnessApp/main.m \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/ios/FitnessApp/AppDelegate.h

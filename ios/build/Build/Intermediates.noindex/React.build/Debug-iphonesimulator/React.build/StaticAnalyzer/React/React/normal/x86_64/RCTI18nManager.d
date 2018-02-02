@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Modules/RCTI18nManager.m \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Modules/RCTI18nManager.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/anthonynguyen/mobileApps/FitnessApp/node_modules/react-native/React/Modules/RCTI18nUtil.h
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Modules/RCTI18nManager.m \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Modules/RCTI18nManager.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/saitama/SIDEPROJECTS/FitnessApp/node_modules/react-native/React/Modules/RCTI18nUtil.h

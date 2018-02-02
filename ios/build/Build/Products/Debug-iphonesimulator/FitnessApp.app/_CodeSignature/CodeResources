@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		RqXwQL5fu+lzVTV5uQ647ei4F/g=
+		SI3mVr/P1oX3YxuBd6wXFYZ7DEY=
 		</data>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
 		<data>
@@ -51,7 +51,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		qbFk5m1+3ATpZW7aDw6sgX4V8dk=
+		cihgv23+S2WpcFC/yYQYQg8Znks=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -67,7 +67,7 @@
 		</data>
 		<key>PlugIns/FitnessAppTests.xctest/FitnessAppTests</key>
 		<data>
-		4BV2a7KgFKjYiSy912k/1HY4UZI=
+		W4JL/Pr1j5AUfkp5QC8MynY9amw=
 		</data>
 		<key>PlugIns/FitnessAppTests.xctest/Info.plist</key>
 		<data>
@@ -84,11 +84,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RqXwQL5fu+lzVTV5uQ647ei4F/g=
+			SI3mVr/P1oX3YxuBd6wXFYZ7DEY=
 			</data>
 			<key>hash2</key>
 			<data>
-			Mx0XeZ2YrOmZ+Qb1BQ6pD8JiPLrg3ScQIwFMkIJaWoQ=
+			hqMVIXB/LxCOewWtRfchu+Afoo89tqDJ6KVYjgsjBz0=
 			</data>
 		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
@@ -218,11 +218,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4BV2a7KgFKjYiSy912k/1HY4UZI=
+			W4JL/Pr1j5AUfkp5QC8MynY9amw=
 			</data>
 			<key>hash2</key>
 			<data>
-			pQJhEPXscz6XuTO5GsE55n8DfSo7L5QDUp4BdU4YYiY=
+			Dy3FDrl1EFc8xqTU7jUnch315fj+uxAj6ELyBvBXT9k=
 			</data>
 		</dict>
 		<key>PlugIns/FitnessAppTests.xctest/Info.plist</key>
