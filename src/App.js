@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { View } from 'react-native';
 import { HomeScreen, ChatScreen, Settings } from './components';
-import { Header, Button, CardSection, Spinner } from './components/common';
+import { Header, Button, CardSection, Footer } from './components/common';
 
 class App extends Component {
 	state = { Screen: null };
@@ -11,7 +11,7 @@ class App extends Component {
       case Settings:
         return <Settings />;
       case HomeScreen:
-        return <HomeScreen />;
+        return <Footer />;
       case ChatScreen:
         return <ChatScreen />;       
       default:
@@ -37,9 +37,11 @@ class App extends Component {
 	render() {
 	return (
       <View>
+
         <Header headerText="Fitness App" />
 
         {this.renderContent()}
+
       </View>
       );
 	}
