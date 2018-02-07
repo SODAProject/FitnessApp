@@ -3,11 +3,15 @@ import React, { Component } from 'react';
 import BottomNavigation, { Tab } from 'react-native-material-bottom-navigation';
 import { LayoutAnimation } from '../../../../../../AppData/Local/Microsoft/TypeScript/2.6/node_modules/@types/react-native';
 import StackLayout from './layouts/Stacklayout';
+<<<<<<< HEAD
 import { CardSection } from './index';
+=======
+>>>>>>> bc3cfc298325acd52cdf79ae8b52a05143d96cc0
  
 class Footer extends Component {
   render() {
     return (
+      <StackLayout>
       <BottomNavigation
         labelColor="white"
         rippleColor="white"
@@ -32,6 +36,7 @@ class Footer extends Component {
 
 
       </BottomNavigation>
+      </StackLayout>
     );
   }
 }
