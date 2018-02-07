@@ -1,11 +1,13 @@
 import React, { Component } from 'react';
 //import { alert } from 'react-native';
 import BottomNavigation, { Tab } from 'react-native-material-bottom-navigation';
-
+import { LayoutAnimation } from '../../../../../../AppData/Local/Microsoft/TypeScript/2.6/node_modules/@types/react-native';
+import StackLayout from './layouts/Stacklayout';
  
 class Footer extends Component {
   render() {
     return (
+      <StackLayout>
       <BottomNavigation
         labelColor="white"
         rippleColor="white"
@@ -30,6 +32,7 @@ class Footer extends Component {
 
 
       </BottomNavigation>
+      </StackLayout>
     );
   }
 }
