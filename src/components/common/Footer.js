@@ -3,15 +3,15 @@ import React, { Component } from 'react';
 import BottomNavigation, { Tab } from 'react-native-material-bottom-navigation';
 import { LayoutAnimation } from '../../../../../../AppData/Local/Microsoft/TypeScript/2.6/node_modules/@types/react-native';
 import StackLayout from './layouts/Stacklayout';
+import { CardSection } from './index';
  
 class Footer extends Component {
   render() {
     return (
-      <StackLayout>
       <BottomNavigation
         labelColor="white"
         rippleColor="white"
-        style={{ height: 50, elevation: 2, position: 'absolute', left: 0, bottom: 0, right: 0 }}
+        style={{ height: 50, elevation: 2, position: 'bottom', left: 0, bottom: 0, right: 0 }}
         onTabChange={(newTabIndex) => (`New Tab at position ${newTabIndex}`)}
       >
         <Tab
@@ -32,7 +32,6 @@ class Footer extends Component {
 
 
       </BottomNavigation>
-      </StackLayout>
     );
   }
 }
