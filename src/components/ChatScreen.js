@@ -1,16 +1,22 @@
-import React from 'react';
+import React, { Component } from 'react';
+
 // import { View } from 'react-native';
-import { Header, CardSection, Button } from './common';
+import { CardSection, Button } from './common';
 
 
-const ChatScreen = () => {
+class ChatScreen extends Component {
+	static navigationOptions = {
+		tabBarLabel: 'ChatScreen'
+	}
+	render() {
 		return (
 			<CardSection>
 				<Button>
-					View My Workouts
+					ChatScreen
 				</Button>
 			</CardSection>
 		);
-	};
+	}
+}
 
 export { ChatScreen };

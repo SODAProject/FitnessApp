@@ -1,9 +1,13 @@
-import React from 'react';
+import React, { Component } from 'react';
 //import { View } from 'react-native';
 import { Button, CardSection } from './common';
 
 
-const Settings = () => {
+class Settings extends Component {
+	static navigationOptions = {
+		tabBarLabel: 'Settings'
+	}
+	render() {
 		return (
 			<CardSection> 
 				<Button>
@@ -15,6 +19,7 @@ const Settings = () => {
 			</CardSection>
 			
 		);
-	};
+	}
+}
 
 export { Settings };
