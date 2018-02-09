@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { View } from 'react-native';
-import { HomeScreen, ChatScreen, Settings } from './components';
+import { HomeScreen, ChatScreen, Settings, CreateWorkout } from './components';
 import { Header, Button, CardSection, Footer } from './components/common';
 
 class App extends Component {
@@ -13,7 +13,9 @@ class App extends Component {
       case HomeScreen:
         return <Footer />;
       case ChatScreen:
-        return <ChatScreen />;       
+        return <ChatScreen />; 
+      case CreateWorkout:
+        return <CreateWorkout />;      
       default:
         return (
         <View>
@@ -29,7 +31,13 @@ class App extends Component {
           <Button onPress={() => this.setState({ Screen: ChatScreen })}>
             ChatScreen
           </Button>
-           </CardSection>
+      </CardSection>
+
+      <CardSection>
+          <Button onPress={() => this.setState({ Screen: CreateWorkout })}>
+            CreateWorkout
+          </Button>
+      </CardSection>
           </View>
           );
     }
