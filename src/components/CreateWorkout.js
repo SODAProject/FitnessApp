@@ -9,7 +9,7 @@ class CreateWorkout extends Component {
     <View>
 		<CardSection>
 			<Button>
-				Filter
+				Sort
 			</Button>
 
 		</CardSection>
