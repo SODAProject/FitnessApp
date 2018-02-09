@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		SI3mVr/P1oX3YxuBd6wXFYZ7DEY=
+		R2qwLYWpSD28ZkDZYxGSrT9WD14=
 		</data>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
 		<data>
@@ -63,19 +63,19 @@
 		</data>
 		<key>PlugIns/FitnessAppTests.xctest.dSYM/Contents/Resources/DWARF/FitnessAppTests</key>
 		<data>
-		BXUOl27N2A4Yw32HmJYZqmnvNdA=
+		wfyUS4TyAt6+NmjvCO45Bi78DT4=
 		</data>
 		<key>PlugIns/FitnessAppTests.xctest/FitnessAppTests</key>
 		<data>
-		W4JL/Pr1j5AUfkp5QC8MynY9amw=
+		NZ+aNaVxryQqVAZwf3d7uIbP3zk=
 		</data>
 		<key>PlugIns/FitnessAppTests.xctest/Info.plist</key>
 		<data>
-		6Xc6F54VhR58WT8q/x5mcK3W8Tk=
+		E5Gw7nJvq8fkK89bPZ7zilSDzuc=
 		</data>
 		<key>PlugIns/FitnessAppTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
-		bja/mWhdekRolXe92oza5hfApCw=
+		51yKsi2jVhswOIqcgfnDb3EF55Y=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -84,11 +84,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SI3mVr/P1oX3YxuBd6wXFYZ7DEY=
+			R2qwLYWpSD28ZkDZYxGSrT9WD14=
 			</data>
 			<key>hash2</key>
 			<data>
-			hqMVIXB/LxCOewWtRfchu+Afoo89tqDJ6KVYjgsjBz0=
+			gIjmqemT2DW+jMyFaL2ZF9VkXmfjiTGDGpjWgqkbMu0=
 			</data>
 		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
@@ -207,44 +207,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BXUOl27N2A4Yw32HmJYZqmnvNdA=
+			wfyUS4TyAt6+NmjvCO45Bi78DT4=
 			</data>
 			<key>hash2</key>
 			<data>
-			n7xcjEbiZ+QsJyiSjjWAb6D9GRZ0KMORasxosqeczKg=
+			2autu72ZCzro9/1XOBuOae5Q13Zlys7UmQ+35IEOhig=
 			</data>
 		</dict>
 		<key>PlugIns/FitnessAppTests.xctest/FitnessAppTests</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			W4JL/Pr1j5AUfkp5QC8MynY9amw=
+			NZ+aNaVxryQqVAZwf3d7uIbP3zk=
 			</data>
 			<key>hash2</key>
 			<data>
-			Dy3FDrl1EFc8xqTU7jUnch315fj+uxAj6ELyBvBXT9k=
+			OxE1YgAqeSNfdioX/7mcdVBka9NSSb1tW4PLBwyQkHo=
 			</data>
 		</dict>
 		<key>PlugIns/FitnessAppTests.xctest/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6Xc6F54VhR58WT8q/x5mcK3W8Tk=
+			E5Gw7nJvq8fkK89bPZ7zilSDzuc=
 			</data>
 			<key>hash2</key>
 			<data>
-			RW3LT80I8Z4+m30bfDg2ZJmcM2Yz2FEX8fU0RnLTjRI=
+			1nqBNkfv6ip6YLdPaFRxcHb9rkMlk3M50x5gY589MhU=
 			</data>
 		</dict>
 		<key>PlugIns/FitnessAppTests.xctest/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bja/mWhdekRolXe92oza5hfApCw=
+			51yKsi2jVhswOIqcgfnDb3EF55Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			sWDbncODZFiH2gSHjOJ4GxQKK/8RVYtTMXky2PEVfuA=
+			kZhrMQEWhFDswu0Y5YsoAiCvHIYDs/pCYeVZehC74H0=
 			</data>
 		</dict>
 	</dict>
