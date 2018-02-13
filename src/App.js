@@ -1,9 +1,10 @@
 import React, { Component } from 'react';
-import { View } from 'react-native';
+//import { View } from 'react-native';
 import { TabNavigator } from 'react-navigation';
-//import { NavigationComponent } from 'react-native-material-bottom-navigation';
-import { HomeScreen, ChatScreen, Settings, CreateWorkout } from './components';
-import { Header, Button, CardSection, Footer } from './components/common';
+//import { Icon } from 'react-native-elements';
+import { NavigationComponent } from 'react-native-material-bottom-navigation';
+import { HomeScreen, ChatScreen, Settings } from './components';
+//import { Header, Button, CardSection, Footer } from './components/common';
 
 // class App extends Component {
 //   state = { Screen: null };
@@ -58,21 +59,29 @@ import { Header, Button, CardSection, Footer } from './components/common';
 // }
 
 const NavigationScreen = TabNavigator({
-  Tab1: { screen: Settings },
-  Tab2: { screen: HomeScreen },
-  Tab3: { screen: ChatScreen },
+  Settings: { screen: Settings },
+  HomeScreen: { screen: HomeScreen },
+  ChatScreen: { screen: ChatScreen },
+}, {
+  tabBarComponent: NavigationComponent,
+  tabBarPosition: 'bottom',
+  tabBarOptions: {
 
-}
-  //   {
-  //   tabBarPosition: 'bottom',
-  //   swipeEnabled: true,
-  //   tabBarOptions: {
-  //     activeTintColor: 'white',
-  //     activeBackgroundColor: 'darkgreen',
-  //     inactiveTintColor: 'white',
-  //     inactiveBackgroundCOlor: 'green',
-  //   }
-  // }
+    bottomNavigationOptions: {
+      labelColor: 'white',
+      rippleColor: 'white',
+      tabs: {
+        Settings: {
+          barBackgroundColor: '#37474F',
+        },
+        HomeScreen: {
+          barBackgroundColor: '#00796B'
+        },
+        ChatScreen: {
+          barBackgroundColor: '#362e77'
+    }
+
+  } } } }
   );
 
 NavigationScreen.navigationOptions = {
