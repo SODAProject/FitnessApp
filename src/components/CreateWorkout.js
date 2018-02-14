@@ -24,6 +24,7 @@ class CreateWorkout extends Component {
 				{ key: 'Netflix and Chill' },
 				{ key: 'Chest' },
 				{ key: 'Back' },
+				{ key: 'Straight Traps' },
 				]}
 				renderItem={({ item }) => <Text style={styles.item}>{item.key}</Text>}
 			/>

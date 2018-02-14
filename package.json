@@ -11,7 +11,8 @@
     "react-native": "^0.52.0",
     "react-native-material-bottom-navigation": "^0.7.0",
     "react-native-vector-icons": "^4.5.0",
-    "react-navigation": "^1.0.3"
+    "react-navigation": "^1.0.3",
+    "s": "^0.1.1"
   },
   "devDependencies": {
     "babel-jest": "22.1.0",

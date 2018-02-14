@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-//import { View } from 'react-native';
-import { Button, CardSection } from './common';
+import { View } from 'react-native';
+import { Button, CardSection, Card, Header } from './common';
 
 
 class Settings extends Component {
@@ -9,6 +9,10 @@ class Settings extends Component {
 	}
 	render() {
 		return (
+
+		<View>
+			<Header headerText="Settings" />
+			
 			<CardSection> 
 				<Button>
 					My Profile
@@ -17,6 +21,7 @@ class Settings extends Component {
 					Other Settings
 				</Button>
 			</CardSection>
+		</View>
 			
 		);
 	}

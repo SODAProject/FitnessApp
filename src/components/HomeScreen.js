@@ -19,7 +19,7 @@ class HomeScreen extends Component {
         <View>
       <CardSection>
           <Button onPress={() => this.setState({ Screen: CreateWorkout })}>
-            MY Workouts
+            My Workouts
           </Button>
       </CardSection>
 
