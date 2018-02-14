@@ -1,12 +1,18 @@
 import React, { Component } from 'react';
-import { View } from 'react-native';
+import { View, Image } from 'react-native';
 import { CreateWorkout } from './';
 import { Button, CardSection, Header } from './common';
 
 
 class HomeScreen extends Component {
 	static navigationOptions = {
-		tabBarLabel: 'HomeScreen'
+		tabBarLabel: 'HomeScreen',
+		tabBarIcon: ({ tintColor }) => (
+			<Image 
+			source={require('../../images/28000778_10210191537654208_64805463_n.png')}
+			style={{ width: 22, height: 22, tintColor: 'orange' }}
+			/>
+)
 	}
 	state = { Screen: null };
 

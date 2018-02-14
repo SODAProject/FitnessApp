@@ -72,13 +72,13 @@ const NavigationScreen = TabNavigator({
       rippleColor: 'white',
       tabs: {
         Settings: {
-          barBackgroundColor: '#37474F',
+          barBackgroundColor: '#0c5072',
         },
         HomeScreen: {
-          barBackgroundColor: '#00796B'
+          barBackgroundColor: '#0c5072'
         },
         ChatScreen: {
-          barBackgroundColor: '#362e77'
+          barBackgroundColor: '#0c5072'
     }
 
   } } } }

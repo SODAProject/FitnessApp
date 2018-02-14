@@ -8,7 +8,7 @@ class CreateWorkout extends Component {
     return (
     <View>
 		<CardSection>
-			<Button>
+			<Button >
 				Sort
 			</Button>
 
