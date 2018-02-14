@@ -7,6 +7,7 @@ import { Button, CardSection, Header } from './common';
 class HomeScreen extends Component {
 	static navigationOptions = {
 		tabBarLabel: 'HomeScreen',
+    inactiveTintColor: 'red',
 		tabBarIcon: ({ tintColor }) => (
 			<Image 
 			source={require('../../images/28000778_10210191537654208_64805463_n.png')}

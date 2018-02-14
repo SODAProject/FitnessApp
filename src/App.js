@@ -63,25 +63,34 @@ const NavigationScreen = TabNavigator({
   HomeScreen: { screen: HomeScreen },
   ChatScreen: { screen: ChatScreen },
 }, {
-  tabBarComponent: NavigationComponent,
+  //tabBarComponent: NavigationComponent,
   tabBarPosition: 'bottom',
+  swipeEnabled: true,
+  animationEnabled: true,
+  isSelected: HomeScreen,
   tabBarOptions: {
+    inactiveTintColor: 'white',
+    activeTintColor: 'gold',
+    activeBackgroundColor: '#0c5072',
+    inactiveBackgroundColor: '#0a4968',
 
-    bottomNavigationOptions: {
-      labelColor: 'white',
-      rippleColor: 'white',
-      tabs: {
-        Settings: {
-          barBackgroundColor: '#0c5072',
-        },
-        HomeScreen: {
-          barBackgroundColor: '#0c5072'
-        },
-        ChatScreen: {
-          barBackgroundColor: '#0c5072'
-    }
 
-  } } } }
+    // bottomNavigationOptions: {
+    //   labelColor: 'white',
+    //   rippleColor: 'white',
+    //   tabs: {
+    //     Settings: {
+    //       barBackgroundColor: '#0c5072',
+    //     },
+    //     HomeScreen: {
+    //       barBackgroundColor: '#0c5072'
+    //     },
+    //     ChatScreen: {
+    //       barBackgroundColor: '#0c5072'
+    // }
+
+  // } } } }
+  } } 
   );
 
 NavigationScreen.navigationOptions = {
